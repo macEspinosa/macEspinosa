@@ -19,11 +19,11 @@ Hi there! I'm Maria Antonette, a passionate and curious Computer Science student
 ### ⚡️ Skills & Expertise
 
 - **Programming Languages:**  
-  Java 
+  Java<br> 
   *Building efficient, scalable solutions and solving complex problems one line of code at a time.*
 
 - **Web Development:**  
-  HTML 
+  HTML <br>
   *Crafting interactive, dynamic, and user-friendly web experiences.*
 
 - **Database Management & SQL:**  
