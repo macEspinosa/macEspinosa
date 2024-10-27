@@ -11,7 +11,7 @@ Hi there! I'm Maria Antonette, a passionate and curious Computer Science student
 ---
 
 ### 🎓 Certifications
-- **SQL and Relational Databases 101**  
+- **SQL and Relational Databases 101**  https://l.facebook.com/l.php?u=https%3A%2F%2Fcourses.cognitiveclass.ai%2Fcertificates%2F11a0b3960a71407eab7f3ab31bfc1fed%3Ffbclid%3DIwZXh0bgNhZW0CMTAAAR3HJy7BbSvQTCbFv78d2N2IzCR5z3b3w_Fm5msEhaFJHC0KXzjRpmbcmVE_aem_Sx-AEqDj2TxnEM4as7sw-Q&h=AT0mkrs-DSPF375Y5XH-Kd7gwRRjtPHoMm24D2PyITXuRG0tgOi-Lp4wN_Wq1Ry9UTgbyqxcsSPoVzCAt5g1UxQIvsEYcimB4CE_BS9TGvNs3wPyUxBjsrkpmENZwDhCpy8Yvg
   *Mastered the fundamentals of SQL, database design, and relational database management systems to effectively manage data.*
 
 ---
