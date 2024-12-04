@@ -15,6 +15,7 @@ Hi there! I'm Maria Antonette, a passionate and curious Computer Science student
 <br>  *Mastered the fundamentals of SQL, database design, and relational database management systems to effectively manage data.*
 
 - **Oracle Cloud Infrastructure 2024 Certified Foundations Associate** <br>**Issued by Oracle** <br> <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=E40477C269A6A38048AB6C3C308F8D2F0C54F8DFD4996371B2DACD317E0266EE&fbclid=IwY2xjawG8tpZleHRuA2FlbQIxMQABHaVwjGYUnhv2cGTucxmSuPVz8XnS5IJWKiRVkySxsc6UaUtjfHGGFWDY4w_aem_O9fI3xP7LcUdoW6ER6LG8g">Cert Link</a></br>
+<br> *Validated foundational knowledge of Oracle Cloud Infrastructure, covering cloud concepts, core OCI services, security, pricing, and governance.*
 
 ---
 
