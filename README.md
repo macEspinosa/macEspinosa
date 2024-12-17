@@ -19,6 +19,9 @@ Hi there! I'm Maria Antonette, a passionate and curious Computer Science student
 
 - **Oracle Cloud Infrastructure 2024 Data Certified Foundations Associate** <br>**Issued by Oracle** <br> <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=E40477C269A6A38048AB6C3C308F8D2FABA24FC2CFB5872DC865069A3C26F6FC&fbclid=IwY2xjawHCn1hleHRuA2FlbQIxMQABHezSB9brBX--c07dV5IcMFZtnAPYIX2S-FZjPgl7Sk720uZPldVebxTufQ_aem_MPjr_JlU8xG6PRxFA0u3Dw">Cert Link</a></br>
 *Validated foundational knowledge of Oracle Cloud Infrastructure's data management services, including database solutions, autonomous database, lifecycle management, multi-cloud strategies, and governance.*
+
+- **Oracle Cloud Infrastructure 2024 Certified AI Foundations Associate** <br>**Issued by Oracle** <br> <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=867A47681979D45092E3F33DD16C98E3D93D82AA85DEEAF2E299A1578263DC2A&fbclid=IwY2xjawHNxY1leHRuA2FlbQIxMQABHbaZl8CLYbgxoy3uOIIe6tk_PNXuiiTU9ACbtNpnXKdgBYjf_OB2plXSUw_aem_u-Bptt3n7LrDayb0KBnvIQ">Cert Link</a></br>
+*Validated foundational knowledge of Oracle Cloud Infrastructure's AI services, including machine learning, natural language processing, computer vision, AI model deployment, responsible AI principles, and real-world AI use cases.*
 ---
 
 ### ⚡️ Skills & Expertise
